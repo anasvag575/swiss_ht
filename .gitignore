@@ -42,6 +42,18 @@
 *.idb
 *.pdb
 
+#Executables
+test_str
+test_int
+
+#Clang-format
+.clang-format
+
+#Eclipse staff
+.settings/
+.cproject
+.project
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
